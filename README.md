@@ -17,3 +17,4 @@ This project applies the K-Means clustering algorithm to perform unsupervised an
 
 <img width="534" height="536" alt="image" src="https://github.com/user-attachments/assets/b92ed797-3b20-4307-855b-1dd87dfa431c" />
 
+
